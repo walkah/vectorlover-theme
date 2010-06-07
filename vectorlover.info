@@ -1,0 +1,6 @@
+; $Id$
+name = Vector Lover
+description = A free template turned Drupal theme
+core = 6.x
+engine = phptemplate
+stylesheets[all][] = images/VectorLover.css
